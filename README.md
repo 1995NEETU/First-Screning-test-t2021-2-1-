@@ -11,6 +11,8 @@ Output: (examples)
     .
     .
     5) input a = x, then output : 1, 3, 5, 7, .......
+    
+    
 Problem-3: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
 
 Output: (examples)
